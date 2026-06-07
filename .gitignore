@@ -1,0 +1,6 @@
+#virtual env
+/virtualenv
+
+
+#ide
+.idea/
